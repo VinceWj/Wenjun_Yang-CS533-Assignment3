@@ -1,0 +1,217 @@
+Wheeler Portable Batch System Prologue
+Job Id: 297198.wheeler-sn.alliance.unm.edu
+Username: weyang
+Job 297198.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler262 
+
+prologue running on host: wheeler262
+
+Inactive Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph     2) openblas-0.2.20-gcc-4.8.5-gqori4j
+
+
+Activating Modules:
+  1) openblas-0.2.20-gcc-4.8.5-gqori4j
+
+
+Activating Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+/var/lib/torque/mom_priv/jobs/297198.wheeler-sn.alliance.unm.edu.SC: line 17: moduel: command not found
+Description:	DGEMM with unoptimized loop index order
+Size: 31	Mflop/s:  2082.07	Percentage: 19.50	Time:0.001431
+Size: 32	Mflop/s:  1934.92	Percentage: 18.12	Time:0.001694
+Size: 96	Mflop/s:  1942.54	Percentage: 18.19	Time:0.045545
+Size: 97	Mflop/s:  2223.82	Percentage: 20.82	Time:0.041041
+Size: 127	Mflop/s:   2183.3	Percentage: 20.44	Time:0.093820
+Size: 128	Mflop/s:  1393.05	Percentage: 13.04	Time:0.150544
+Size: 129	Mflop/s:  2171.39	Percentage: 20.33	Time:0.098862
+Size: 191	Mflop/s:  2030.46	Percentage: 19.01	Time:0.343166
+Size: 192	Mflop/s:  1349.53	Percentage: 12.64	Time:0.524469
+Size: 229	Mflop/s:  2029.02	Percentage: 19.00	Time:0.591862
+Size: 255	Mflop/s:  2042.07	Percentage: 19.12	Time:0.811988
+Size: 256	Mflop/s:  1117.35	Percentage: 10.46	Time:1.501524
+Size: 257	Mflop/s:  2012.83	Percentage: 18.85	Time:0.843319
+Size: 319	Mflop/s:  2026.72	Percentage: 18.98	Time:1.601687
+Size: 320	Mflop/s:  1353.74	Percentage: 12.68	Time:2.420551
+Size: 321	Mflop/s:  2028.05	Percentage: 18.99	Time:1.630938
+Size: 417	Mflop/s:  1994.23	Percentage: 18.67	Time:3.636074
+Size: 479	Mflop/s:   1554.4	Percentage: 14.55	Time:7.070398
+Size: 480	Mflop/s:  1336.38	Percentage: 12.51	Time:8.275497
+Size: 511	Mflop/s:  1832.21	Percentage: 17.16	Time:7.282603
+Size: 512	Mflop/s:  1121.86	Percentage: 10.50	Time:11.963904
+Size: 639	Mflop/s:  1243.63	Percentage: 11.64	Time:20.980346
+Size: 640	Mflop/s:  1115.77	Percentage: 10.45	Time:23.494446
+Size: 767	Mflop/s:  1247.89	Percentage: 11.68	Time:36.158347
+Size: 768	Mflop/s:  1123.43	Percentage: 10.52	Time:40.321493
+Size: 769	Mflop/s:  1249.66	Percentage: 11.70	Time:36.390507
+Average percent peak = 15.7521	Grade = 23.6281
+Description:	DGEMM with unoptimized loop index order
+Size: 31	Mflop/s:  2095.39	Percentage: 19.62	Time:0.001422
+Size: 32	Mflop/s:  2108.25	Percentage: 19.74	Time:0.001554
+Size: 96	Mflop/s:  1950.96	Percentage: 18.27	Time:0.045349
+Size: 97	Mflop/s:  2086.15	Percentage: 19.53	Time:0.043749
+Size: 127	Mflop/s:  2073.48	Percentage: 19.41	Time:0.098790
+Size: 128	Mflop/s:  1325.66	Percentage: 12.41	Time:0.158197
+Size: 129	Mflop/s:  2076.51	Percentage: 19.44	Time:0.103380
+Size: 191	Mflop/s:  1709.59	Percentage: 16.01	Time:0.407575
+Size: 192	Mflop/s:  1287.09	Percentage: 12.05	Time:0.549912
+Size: 229	Mflop/s:  1696.54	Percentage: 15.89	Time:0.707850
+Size: 255	Mflop/s:  1699.12	Percentage: 15.91	Time:0.975880
+Size: 256	Mflop/s:  1029.49	Percentage:  9.64	Time:1.629663
+Size: 257	Mflop/s:   1687.7	Percentage: 15.80	Time:1.005782
+Size: 319	Mflop/s:  1695.64	Percentage: 15.88	Time:1.914424
+Size: 320	Mflop/s:  1287.37	Percentage: 12.05	Time:2.545351
+Size: 321	Mflop/s:  1690.29	Percentage: 15.83	Time:1.956838
+Size: 417	Mflop/s:   1562.6	Percentage: 14.63	Time:4.640454
+Size: 479	Mflop/s:  1373.98	Percentage: 12.87	Time:7.998800
+Size: 480	Mflop/s:   1270.6	Percentage: 11.90	Time:8.703947
+Size: 511	Mflop/s:  1459.26	Percentage: 13.66	Time:9.143841
+Size: 512	Mflop/s:   938.32	Percentage:  8.79	Time:14.304054
+Size: 639	Mflop/s:  1183.31	Percentage: 11.08	Time:22.049701
+Size: 640	Mflop/s:  1045.08	Percentage:  9.79	Time:25.083697
+Size: 767	Mflop/s:  1186.48	Percentage: 11.11	Time:38.029897
+Size: 768	Mflop/s:  1031.59	Percentage:  9.66	Time:43.911207
+Size: 769	Mflop/s:  1187.97	Percentage: 11.12	Time:38.280153
+Average percent peak = 14.3109	Grade = 21.4663
+Description:	DGEMM from system BLAS library
+Size: 31	Mflop/s:  295.775	Percentage:  2.77	Time:0.010072
+Size: 32	Mflop/s:  296.255	Percentage:  2.77	Time:0.011061
+Size: 96	Mflop/s:  298.224	Percentage:  2.79	Time:0.296669
+Size: 97	Mflop/s:  298.871	Percentage:  2.80	Time:0.305374
+Size: 127	Mflop/s:  299.877	Percentage:  2.81	Time:0.683075
+Size: 128	Mflop/s:   295.97	Percentage:  2.77	Time:0.708568
+Size: 129	Mflop/s:  299.979	Percentage:  2.81	Time:0.715613
+Size: 191	Mflop/s:  297.564	Percentage:  2.79	Time:2.341640
+Size: 192	Mflop/s:  294.248	Percentage:  2.76	Time:2.405414
+Size: 229	Mflop/s:   297.53	Percentage:  2.79	Time:4.036230
+Size: 255	Mflop/s:  298.307	Percentage:  2.79	Time:5.558503
+Size: 256	Mflop/s:  289.324	Percentage:  2.71	Time:5.798757
+Size: 257	Mflop/s:  297.357	Percentage:  2.78	Time:5.708492
+Size: 319	Mflop/s:    298.5	Percentage:  2.79	Time:10.874951
+Size: 320	Mflop/s:  295.724	Percentage:  2.77	Time:11.080599
+Size: 321	Mflop/s:  298.259	Percentage:  2.79	Time:11.089754
+Size: 417	Mflop/s:  299.181	Percentage:  2.80	Time:24.236751
+Size: 479	Mflop/s:  299.419	Percentage:  2.80	Time:36.705196
+Size: 480	Mflop/s:  297.944	Percentage:  2.79	Time:37.118447
+Size: 511	Mflop/s:  299.584	Percentage:  2.81	Time:44.539356
+Size: 512	Mflop/s:   284.02	Percentage:  2.66	Time:47.256494
+Size: 639	Mflop/s:  299.994	Percentage:  2.81	Time:86.974144
+Size: 640	Mflop/s:  295.511	Percentage:  2.77	Time:88.708591
+Size: 767	Mflop/s:  300.112	Percentage:  2.81	Time:150.349641
+Size: 768	Mflop/s:  291.923	Percentage:  2.73	Time:155.172503
+Size: 769	Mflop/s:  300.052	Percentage:  2.81	Time:151.559401
+Average percent peak = 2.78	Grade = 4.17
+Description:	DGEMM with loop indicies ordered for column major layout
+Size: 31	Mflop/s:  2654.26	Percentage: 24.85	Time:0.001122
+Size: 32	Mflop/s:  2854.94	Percentage: 26.73	Time:0.001148
+Size: 96	Mflop/s:  1425.03	Percentage: 13.34	Time:0.062086
+Size: 97	Mflop/s:  2658.11	Percentage: 24.89	Time:0.034335
+Size: 127	Mflop/s:  2618.56	Percentage: 24.52	Time:0.078226
+Size: 128	Mflop/s:  602.392	Percentage:  5.64	Time:0.348137
+Size: 129	Mflop/s:  2658.64	Percentage: 24.89	Time:0.080744
+Size: 191	Mflop/s:  2102.08	Percentage: 19.68	Time:0.331475
+Size: 192	Mflop/s:  641.959	Percentage:  6.01	Time:1.102544
+Size: 229	Mflop/s:  1759.95	Percentage: 16.48	Time:0.682350
+Size: 255	Mflop/s:  1726.61	Percentage: 16.17	Time:0.960344
+Size: 256	Mflop/s:  329.699	Percentage:  3.09	Time:5.088651
+Size: 257	Mflop/s:  1661.35	Percentage: 15.56	Time:1.021737
+Size: 319	Mflop/s:  652.003	Percentage:  6.10	Time:4.978776
+Size: 320	Mflop/s:  612.858	Percentage:  5.74	Time:5.346751
+Size: 321	Mflop/s:  650.965	Percentage:  6.10	Time:5.081093
+Size: 417	Mflop/s:  644.723	Percentage:  6.04	Time:11.246955
+Size: 479	Mflop/s:   646.05	Percentage:  6.05	Time:17.011404
+Size: 480	Mflop/s:  637.592	Percentage:  5.97	Time:17.345250
+Size: 511	Mflop/s:  579.274	Percentage:  5.42	Time:23.034501
+Size: 512	Mflop/s:  301.911	Percentage:  2.83	Time:44.456005
+Size: 639	Mflop/s:  641.576	Percentage:  6.01	Time:40.668154
+Size: 640	Mflop/s:  419.897	Percentage:  3.93	Time:62.430489
+Size: 767	Mflop/s:  620.994	Percentage:  5.81	Time:72.660601
+Size: 768	Mflop/s:  327.446	Percentage:  3.07	Time:138.338852
+Size: 769	Mflop/s:  615.902	Percentage:  5.77	Time:73.835897
+Average percent peak = 11.18	Grade = 16.7701
+Description:	DGEMM with loop indicies ordered for row major layout
+Size: 31	Mflop/s:  3657.02	Percentage: 34.24	Time:0.000815
+Size: 32	Mflop/s:  4093.41	Percentage: 38.33	Time:0.000801
+Size: 96	Mflop/s:  4050.61	Percentage: 37.93	Time:0.021842
+Size: 97	Mflop/s:  3933.07	Percentage: 36.83	Time:0.023205
+Size: 127	Mflop/s:  3856.66	Percentage: 36.11	Time:0.053113
+Size: 128	Mflop/s:  3897.54	Percentage: 36.49	Time:0.053807
+Size: 129	Mflop/s:  3955.04	Percentage: 37.03	Time:0.054277
+Size: 191	Mflop/s:  3466.66	Percentage: 32.46	Time:0.200997
+Size: 192	Mflop/s:  3608.43	Percentage: 33.79	Time:0.196148
+Size: 229	Mflop/s:  3250.97	Percentage: 30.44	Time:0.369398
+Size: 255	Mflop/s:  3199.47	Percentage: 29.96	Time:0.518253
+Size: 256	Mflop/s:  3262.88	Percentage: 30.55	Time:0.514185
+Size: 257	Mflop/s:  3299.26	Percentage: 30.89	Time:0.514497
+Size: 319	Mflop/s:  3282.84	Percentage: 30.74	Time:0.988831
+Size: 320	Mflop/s:  3353.21	Percentage: 31.40	Time:0.977212
+Size: 321	Mflop/s:  3294.99	Percentage: 30.85	Time:1.003832
+Size: 417	Mflop/s:  3312.97	Percentage: 31.02	Time:2.188724
+Size: 479	Mflop/s:  3308.19	Percentage: 30.98	Time:3.322124
+Size: 480	Mflop/s:   3422.1	Percentage: 32.04	Time:3.231698
+Size: 511	Mflop/s:  3310.41	Percentage: 31.00	Time:4.030699
+Size: 512	Mflop/s:  3056.69	Percentage: 28.62	Time:4.390949
+Size: 639	Mflop/s:  3292.43	Percentage: 30.83	Time:7.924747
+Size: 640	Mflop/s:  3315.93	Percentage: 31.05	Time:7.905591
+Size: 767	Mflop/s:  3257.67	Percentage: 30.50	Time:13.850951
+Size: 768	Mflop/s:  3188.89	Percentage: 29.86	Time:14.205098
+Size: 769	Mflop/s:  3270.15	Percentage: 30.62	Time:13.906300
+Average percent peak = 32.4825	Grade = 48.7238
+Description:	DGEMM cache blocked 32 * 32 * 32
+Size: 31	Mflop/s:  4231.62	Percentage: 39.62	Time:0.000704
+Size: 32	Mflop/s:  4311.46	Percentage: 40.37	Time:0.000760
+Size: 96	Mflop/s:  4273.43	Percentage: 40.01	Time:0.020703
+Size: 97	Mflop/s:  3930.03	Percentage: 36.80	Time:0.023223
+Size: 127	Mflop/s:  4166.35	Percentage: 39.01	Time:0.049165
+Size: 128	Mflop/s:  3917.54	Percentage: 36.68	Time:0.053532
+Size: 129	Mflop/s:  3863.91	Percentage: 36.18	Time:0.055557
+Size: 191	Mflop/s:  4130.57	Percentage: 38.68	Time:0.168690
+Size: 192	Mflop/s:  4155.86	Percentage: 38.91	Time:0.170311
+Size: 229	Mflop/s:  4017.52	Percentage: 37.62	Time:0.298915
+Size: 255	Mflop/s:  3269.69	Percentage: 30.62	Time:0.507125
+Size: 256	Mflop/s:  3019.86	Percentage: 28.28	Time:0.555563
+Size: 257	Mflop/s:  3175.22	Percentage: 29.73	Time:0.534596
+Size: 319	Mflop/s:  4090.64	Percentage: 38.30	Time:0.793563
+Size: 320	Mflop/s:  4036.86	Percentage: 37.80	Time:0.811720
+Size: 321	Mflop/s:  4011.75	Percentage: 37.56	Time:0.824481
+Size: 417	Mflop/s:  4032.24	Percentage: 37.76	Time:1.798299
+Size: 479	Mflop/s:  4092.54	Percentage: 38.32	Time:2.685428
+Size: 480	Mflop/s:  4172.69	Percentage: 39.07	Time:2.650374
+Size: 511	Mflop/s:  3121.26	Percentage: 29.23	Time:4.274970
+Size: 512	Mflop/s:  2793.63	Percentage: 26.16	Time:4.804426
+Size: 639	Mflop/s:  3567.41	Percentage: 33.40	Time:7.313907
+Size: 640	Mflop/s:  3217.56	Percentage: 30.13	Time:8.147299
+Size: 767	Mflop/s:  3235.77	Percentage: 30.30	Time:13.944697
+Size: 768	Mflop/s:  2985.73	Percentage: 27.96	Time:15.171647
+Size: 769	Mflop/s:  3230.91	Percentage: 30.25	Time:14.075196
+Average percent peak = 34.951	Grade = 52.4265
+Description:	DGEMM cache blocked/packed 32 * 32 * 32 and register blocked 2 * 2
+Size: 31	Mflop/s:  3723.07	Percentage: 34.86	Time:0.000800
+Size: 32	Mflop/s:  4308.51	Percentage: 40.34	Time:0.000761
+Size: 96	Mflop/s:  4336.85	Percentage: 40.61	Time:0.020400
+Size: 97	Mflop/s:  3999.05	Percentage: 37.44	Time:0.022822
+Size: 127	Mflop/s:  4129.32	Percentage: 38.66	Time:0.049606
+Size: 128	Mflop/s:  4325.84	Percentage: 40.50	Time:0.048480
+Size: 129	Mflop/s:   4055.2	Percentage: 37.97	Time:0.052937
+Size: 191	Mflop/s:  4165.99	Percentage: 39.01	Time:0.167256
+Size: 192	Mflop/s:  4305.95	Percentage: 40.32	Time:0.164375
+Size: 229	Mflop/s:  4135.21	Percentage: 38.72	Time:0.290408
+Size: 255	Mflop/s:  4208.64	Percentage: 39.41	Time:0.393984
+Size: 256	Mflop/s:   4301.6	Percentage: 40.28	Time:0.390022
+Size: 257	Mflop/s:  4147.51	Percentage: 38.83	Time:0.409272
+Size: 319	Mflop/s:  4189.38	Percentage: 39.23	Time:0.774857
+Size: 320	Mflop/s:  4296.24	Percentage: 40.23	Time:0.762713
+Size: 321	Mflop/s:  4166.42	Percentage: 39.01	Time:0.793874
+Size: 417	Mflop/s:  4159.39	Percentage: 38.95	Time:1.743326
+Size: 479	Mflop/s:  4181.06	Percentage: 39.15	Time:2.628571
+Size: 480	Mflop/s:  4288.75	Percentage: 40.16	Time:2.578652
+Size: 511	Mflop/s:  4194.91	Percentage: 39.28	Time:3.180826
+Size: 512	Mflop/s:  4293.29	Percentage: 40.20	Time:3.126222
+Size: 639	Mflop/s:  4166.67	Percentage: 39.01	Time:6.262004
+Size: 640	Mflop/s:  4270.11	Percentage: 39.98	Time:6.139052
+Size: 767	Mflop/s:  4178.58	Percentage: 39.13	Time:10.798347
+Size: 768	Mflop/s:  4269.78	Percentage: 39.98	Time:10.609102
+Size: 769	Mflop/s:  4159.73	Percentage: 38.95	Time:10.932350
+Average percent peak = 39.2384	Grade = 58.8575
+Wheeler Portable Batch System Epilogue

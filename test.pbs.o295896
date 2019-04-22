@@ -1,0 +1,36 @@
+Wheeler Portable Batch System Prologue
+Job Id: 295896.wheeler-sn.alliance.unm.edu
+Username: weyang
+Job 295896.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler296 
+
+prologue running on host: wheeler296
+Description:	DGEMM with unoptimized loop index order
+Size: 31	Mflop/s:  2040.23	Percentage: 19.10	Time:0.110000
+::Size: 32	Mflop/s:  1903.02	Percentage: 17.82	Time:0.140000
+::Size: 96	Mflop/s:  1905.73	Percentage: 17.84	Time:0.120000
+::Size: 97	Mflop/s:  2190.96	Percentage: 20.51	Time:0.110000
+::Size: 127	Mflop/s:   2151.7	Percentage: 20.15	Time:0.120000
+::Size: 128	Mflop/s:  1372.59	Percentage: 12.85	Time:0.190000
+::Size: 129	Mflop/s:  2136.56	Percentage: 20.01	Time:0.130000
+::Size: 191	Mflop/s:  2002.17	Percentage: 18.75	Time:0.110000
+::Size: 192	Mflop/s:  1332.35	Percentage: 12.48	Time:0.170000
+::Size: 229	Mflop/s:   1999.3	Percentage: 18.72	Time:0.200000
+::Size: 255	Mflop/s:  2002.31	Percentage: 18.75	Time:0.140000
+::Size: 256	Mflop/s:  1100.96	Percentage: 10.31	Time:0.120000
+::Size: 257	Mflop/s:  1991.99	Percentage: 18.65	Time:0.140000
+::Size: 319	Mflop/s:  2009.53	Percentage: 18.82	Time:0.130000
+::Size: 320	Mflop/s:   1338.8	Percentage: 12.54	Time:0.200000
+::Size: 321	Mflop/s:  2006.41	Percentage: 18.79	Time:0.130000
+::Size: 417	Mflop/s:  1965.02	Percentage: 18.40	Time:0.140000
+::Size: 479	Mflop/s:  1538.15	Percentage: 14.40	Time:0.140000
+::Size: 480	Mflop/s:  1309.75	Percentage: 12.26	Time:0.170000
+::Size: 511	Mflop/s:  1797.12	Percentage: 16.83	Time:0.150000
+::Size: 512	Mflop/s:  1096.94	Percentage: 10.27	Time:0.250000
+::Size: 639	Mflop/s:  1230.27	Percentage: 11.52	Time:0.430000
+::Size: 640	Mflop/s:  1103.12	Percentage: 10.33	Time:0.480000
+::Size: 767	Mflop/s:  945.644	Percentage:  8.85	Time:0.950000
+::Size: 768	Mflop/s:  879.597	Percentage:  8.24	Time:1.030000
+::Size: 769	Mflop/s:   880.85	Percentage:  8.25	Time:1.030000
+::Average percent peak = 15.2085	Grade = 22.8128
+Wheeler Portable Batch System Epilogue

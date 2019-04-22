@@ -1,0 +1,51 @@
+Wheeler Portable Batch System Prologue
+Job Id: 297908.wheeler-sn.alliance.unm.edu
+Username: weyang
+Job 297908.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler027 
+
+prologue running on host: wheeler027
+
+Inactive Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph     2) openblas-0.2.20-gcc-4.8.5-gqori4j
+
+
+Activating Modules:
+  1) openblas-0.2.20-gcc-4.8.5-gqori4j
+
+
+Activating Modules:
+  1) gsl-2.3-gcc-7.1.0-oqydlph
+
+usage: conda [-h] [-V] command ...
+conda: error: argument command: invalid choice: u'\u2013V' (choose from u'clean', u'config', u'create', u'help', u'info', u'install', u'list', u'package', u'remove', u'uninstall', u'search', u'update', u'upgrade')
+
+CondaValueError: prefix already exists: /users/weyang/.conda/envs/numpy_py3
+
+('size', 31, 'time', 0.000400543212890625)
+('size', 32, 'time', 0.000701745351155599)
+('size', 96, 'time', 0.0024668375651041665)
+('size', 97, 'time', 0.003669261932373047)
+('size', 127, 'time', 0.0066733360290527335)
+('size', 128, 'time', 0.009067058563232422)
+('size', 129, 'time', 0.0114591916402181)
+('size', 191, 'time', 0.023638407389322918)
+('size', 192, 'time', 0.034039815266927086)
+('size', 229, 'time', 0.04834890365600586)
+('size', 255, 'time', 0.06680965423583984)
+('size', 256, 'time', 0.08438825607299805)
+('size', 257, 'time', 0.10333538055419922)
+('size', 319, 'time', 0.23468335469563803)
+('size', 320, 'time', 0.24728933970133465)
+('size', 321, 'time', 0.26078542073567706)
+('size', 417, 'time', 0.2808435757954915)
+('size', 479, 'time', 0.3038732210795085)
+('size', 480, 'time', 0.32622814178466797)
+('size', 511, 'time', 0.3545443216959635)
+('size', 512, 'time', 0.380707581837972)
+('size', 639, 'time', 0.4700724283854167)
+('size', 640, 'time', 0.5540736516316732)
+('size', 767, 'time', 0.6822896003723145)
+('size', 768, 'time', 0.8066932360331217)
+('size', 769, 'time', 0.9348630905151367)
+Wheeler Portable Batch System Epilogue

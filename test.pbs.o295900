@@ -1,0 +1,38 @@
+Wheeler Portable Batch System Prologue
+Job Id: 295900.wheeler-sn.alliance.unm.edu
+Username: weyang
+Job 295900.wheeler-sn.alliance.unm.edu running on nodes:
+wheeler288 
+
+prologue running on host: wheeler288
+wheeler288: mount.nfs: /opt is busy or already mounted
+Description:	DGEMM with unoptimized loop index order
+Size: 31	Mflop/s: 3.8301e-11	Percentage:  0.00	Time:1555624899.990578
+::Size: 32	Mflop/s: 4.21284e-11	Percentage:  0.00	Time:1555624899.991148
+::Size: 96	Mflop/s: 1.13747e-09	Percentage:  0.00	Time:1555624899.993835
+::Size: 97	Mflop/s: 1.17338e-09	Percentage:  0.00	Time:1555624900.008605
+::Size: 127	Mflop/s: 2.63352e-09	Percentage:  0.00	Time:1555624900.025982
+::Size: 128	Mflop/s: 2.69622e-09	Percentage:  0.00	Time:1555624900.062074
+::Size: 129	Mflop/s: 2.75991e-09	Percentage:  0.00	Time:1555624900.098150
+::Size: 191	Mflop/s: 8.95829e-09	Percentage:  0.00	Time:1555624900.144605
+::Size: 192	Mflop/s: 9.09974e-09	Percentage:  0.00	Time:1555624900.267796
+::Size: 229	Mflop/s: 1.54394e-08	Percentage:  0.00	Time:1555624900.401466
+::Size: 255	Mflop/s: 2.1318e-08	Percentage:  0.00	Time:1555624900.613169
+::Size: 256	Mflop/s: 2.15697e-08	Percentage:  0.00	Time:1555624900.919298
+::Size: 257	Mflop/s: 2.18235e-08	Percentage:  0.00	Time:1555624901.222120
+::Size: 319	Mflop/s: 4.17347e-08	Percentage:  0.00	Time:1555624901.542283
+::Size: 320	Mflop/s: 4.21284e-08	Percentage:  0.00	Time:1555624902.126024
+::Size: 321	Mflop/s: 4.25246e-08	Percentage:  0.00	Time:1555624902.697995
+::Size: 417	Mflop/s: 9.32252e-08	Percentage:  0.00	Time:1555624903.353948
+::Size: 479	Mflop/s: 1.41297e-07	Percentage:  0.00	Time:1555624904.746047
+::Size: 480	Mflop/s: 1.42183e-07	Percentage:  0.00	Time:1555624906.770812
+::Size: 511	Mflop/s: 1.71549e-07	Percentage:  0.00	Time:1555624908.780643
+::Size: 512	Mflop/s: 1.72558e-07	Percentage:  0.00	Time:1555624911.279192
+::Size: 639	Mflop/s: 3.3545e-07	Percentage:  0.00	Time:1555624916.977547
+::Size: 640	Mflop/s: 3.37027e-07	Percentage:  0.00	Time:1555624926.020435
+::Size: 767	Mflop/s: 5.80111e-07	Percentage:  0.00	Time:1555624939.012137
+::Size: 768	Mflop/s: 5.82383e-07	Percentage:  0.00	Time:1555624956.256739
+::Size: 769	Mflop/s: 5.84661e-07	Percentage:  0.00	Time:1555624973.798113
+::Average percent peak = 1.21562e-09	Grade = 1.82342e-09
+Wheeler Portable Batch System Epilogue
+wheeler288: mount.nfs: /opt is busy or already mounted
